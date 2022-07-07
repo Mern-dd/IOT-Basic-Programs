@@ -1,6 +1,8 @@
 # IOT-Basic-Programs
 This repository contains basic IOT program's that will give a basic understanding on how to code with arduino and sensors connected with it.
 
+<i><b> Documents </b><i> folder contains a document with sensor description, serial monitor and plotter image, real time applications, code, input, output and result for each sensor present in this repository
+
 ## <b><i> Accelerometer Sensor </i></b>
 
 <b>Description : </b>
