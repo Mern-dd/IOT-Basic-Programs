@@ -4,10 +4,18 @@ This repository contains basic IOT program's that will give a basic understandin
 ## <b><i> Accelerometer Sensor </i></b>
 
 <b>Description : </b>
-<p></p>
+<p>An accelerometer is an electronic sensor that measures the acceleration forces acting on
+an object, in order to determine the object’s position in space and monitor the object’s
+movement. Acceleration, which is a vector quantity, is the rate of change of an object’s
+velocity</p>
 
 <b>Real Time Applications : </b>
-<p></p>
+<p>
+<li>To detect and monitor vibrations in rotating machinery.
+<li>To display images in an upright position on screens of digital cameras.
+<li>Accelerometers are used to sense orientation, coordinate acceleration, vibration,
+shock.
+</p>
 
 ## <b><i> Ambient Light Sensor </i></b>
 
@@ -38,34 +46,53 @@ door alarm,etc.
 ## <b><i> Gas Sensor </i></b>
 
 <b>Description : </b>
-<p></p>
+<p>A gas sensor is a device that senses the atmosphere's presence or
+concentration of gases. The sensor creates a corresponding potential difference
+depending on the concentration of the gas by adjusting the resistance of the
+material within the sensor, which can be determined as the output voltage.</p>
 
 <b>Real Time Applications : </b>
-<p></p>
+<p>
+<li>Gas sensor are employed in factories and manufacturing facilities to
+identify gas leaks, and to detect smoke and carbon monoxide in homes.
+<li>Gas sensors are electronic devices that detect and identify different types
+of gases. The are commonly used to detect toxic or explosive gasses and
+measure gas concentration.</p>
 
 ## <b><i> Greyscale Sensor </i></b>
 
 <b>Description : </b>
-<p></p>
+<p>The gray scale sensor is able to measure the intensity of light from black to white. A gray scale is also known as black-and-white, and is composed exclusively of shades of gray, varying from black at the weakest intensity to white at the strongest.</p>
 
 <b>Real Time Applications : </b>
-<p></p>
+<p>Grayscale is used for assessing the color shading in between products and the customer's approval sample or among pieces in production.
+</p>
 
 ## <b><i> Joystick Sensor </i></b>
 
 <b>Description : </b>
-<p></p>
+<p>The joystick has two potentiometer to read user's input. One potentiometer is
+used to get the analog output voltage for X-Direction movement and the other
+potentiometer is used to get the analog output voltage for Y-Direction movement.
+The potentiometer are connected between +VCC and Ground.</p>
 
 <b>Real Time Applications : </b>
-<p></p>
+<p><li>An analog stick is often used to move some game object, usually the playable
+character.
+<li>It may also be used to rotate the camera, usually around the character</p>
 
 ## <b><i> Steam Sensor </i></b>
 
 <b>Description : </b>
-<p></p>
+<p>Steam sensor can be connected to the Arduino IO Expansion shield directly. The output
+voltage will increase when the humidity of the sensor surface goes up.These sensors must be kept away from water, just vapour.</p>
 
 <b>Real Time Applications : </b>
-<p></p>
+<p>
+<li>The steam sensor acts as a simple rain detector.
+<li>In industries, the steam sensor is used as a cheap steam level switch to
+detect the steam level.
+<li>This sensor acts as a touch sensor based on humidit</p>
 
 ## <b><i> Ultrasonic Sensor </i></b>
 
